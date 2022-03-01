@@ -1,1 +1,7 @@
-هک شدی
+eww++;
+
+edf.put("غیرفعال", "هک شدی");
+e.setParams(edf, RequestNetworkController.REQUEST_BODY);
+e.startRequestNetwork(RequestNetworkController.POST, "https://raw.githubusercontent.com/Svdff/Dff/main/Se", "", _e_request_listener);
+SketchwareUtil.showMessage(getApplicationContext(), "ارسال شد");
+SketchwareUtil.showMessage(getApplicationContext(), _response);
